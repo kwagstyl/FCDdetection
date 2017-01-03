@@ -8,8 +8,7 @@ was able to correctly identify FCDs in 73% of patients.
 
 Please send any queries to kw350@cam.ac.uk or sophie.adler.13@ucl.ac.uk.
 
-The original scans could not be shared publicly, but the matrix of subjects morphological data, along with lesion/non-lesion labelling of each
-vertex can be freely downloaded from:
+The original scans could not be shared publicly, but the matrix of subjects' morphological data, along with lesion/non-lesion labelling of each vertex, can be freely downloaded from:
 https://doi.org/10.17863/CAM.6923
 
 The scripts are numbered 1-10
