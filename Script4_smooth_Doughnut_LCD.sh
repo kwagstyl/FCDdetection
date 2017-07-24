@@ -6,9 +6,9 @@
 # 1. Smooth LCD and Doughnut measures
 
 ## Change to your subjects direction ##
-subjects_dir = "~/Desktop/FCD_study/"
-cd "$subjects_dir"
-
+SUBJECTS_DIR = "~/Desktop/FCD_study/"
+cd "$SUBJECTS_DIR"
+export SUBJECTS_DIR=~/Desktop/FCD_study/
 ## Change to list your subjects
 sub = "FCD_01 FCD_02 FCD_03 FCD_04"
 
