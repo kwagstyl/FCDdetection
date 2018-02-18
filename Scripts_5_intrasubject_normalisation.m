@@ -44,7 +44,6 @@ for s=1:length(subs);
  Cortexrh=Cortexrh(:,1)+1;
  
      %%Load in overlay files for all measures
-    Surf_measures=zeros(1,length(Cortex));
     for L=1:NumberOfMeasures;
         M_lh=MRIread(['',sub,'/xhemi/surf/lh',Measures{L},'']);
         M_rh=MRIread(['',sub,'/xhemi/surf/rh',Measures{L},'']); 
